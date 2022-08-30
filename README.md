@@ -24,13 +24,13 @@ Algunos productos que estarán disponibles son:
 
 ## Logo
 
-El logo característico de OurCar será:
+- El logo característico de OurCar será:
 
 ![Logo de OurCar](https://user-images.githubusercontent.com/89892919/184771445-db208182-404f-4c39-a73e-a033f6ffdedf.jpg) 
 
-El slogan de la marca será: 
+- El slogan de la marca será: 
 
-*"Todo y todos pa' nuestro auto"*
+*"Todo y todos pa' nuestros autos"*
 
 ## Público objetivo
 
