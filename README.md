@@ -40,15 +40,23 @@ OurCar está dirigido a personas generalmente +18. Sin embargo, cualquier person
 
 Las fuentes a utilizar en éste proyecto serán sacadas de [Google Fonts](https://fonts.google.com/), entre ellas:
 
-- Poppins.
-- Aboreto.
-- Alumni Sans Pinstripe. 
+- Alumni Sans. 
+- Inter.
 
 ## Colores
 
 La paleta de colores a utilizar en éste proyecto será perteneciente a [Color Picker](https://htmlcolorcodes.com/color-picker/), algunos de ellos:
 
 - #59CCBA .
-- #957070 .
+- #D9D9D9 .
+- #797979 .
+- #3E6178 . 
+
+## Diseño
+
+El producto final, sería un diseño web similar al de los wireframes creados en FIGMA. 
+En el siguiente enlace se puede encontrar este proyecto:
+
+[OurCar en FIGMA](https://www.figma.com/file/Cvu4zYjgeUpNItTuFE0Gm4/OurCar?node-id=0%3A1)
 
 
